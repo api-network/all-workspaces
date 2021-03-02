@@ -1,0 +1,66 @@
+---
+layout: default
+---
+<div class="container-fluid hero v5_starfield-small-night-sky pb-4">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-8 hero_title" style="text-align: center; margin-top: -30px;">
+            <h1>{{ site.title }}</h1>
+         </div>
+         <div><img src="{{ site.image }}" alt="" width="300"></div>
+      </div>
+   </div>
+</div>
+
+<div class="collection__wrapper">
+   <div class="container">
+
+			<div class="row collection__header text-center">
+         <div class="col-md-12">
+            <h2 class="h1">Workspaces with Descriptions</h2>
+         </div>
+      </div>
+
+      <div>
+        {% assign index = site.data.cream | sort: 'title' %}
+        {% for workspace in index %}
+            {% if workspace.link contains 'api-evangelist' or workspace.link contains 'postman.com/devrel/' %}
+            {% else %}
+              {% if workspace.title != 'Customer API' %}
+                <div class="row collection">
+                  <div class="col-md-8">
+                     <div class="row collection__meta">
+                        <div class="col-12 collection__title">{{ workspace.title }}</div>
+                        <div class="col-12 collection__description">{{ workspace.description }}</div>
+                        <div class="col-12 collection__description"><strong>APIs:</strong> {{ workspace.apis }}</div>
+                        <div class="col-12 collection__description"><strong>Collections:</strong> {{ workspace.collections }}</div>
+                        <div class="col-12 collection__description"><strong>Last Updated:</strong> {{ workspace.updated }}</div>
+                     </div>
+                  </div>
+                  <div class="col-md-4 collection_cta" align="center">
+                    <a class="landing btn btn__secondary-light" href="{{ workspace.link }}" target="_blank">
+                      <img src="images/postman-workspaces.png" width="160"><br>
+                      Visit Workspace
+                    </a>
+                  </div>
+                </div>
+              {% endif %}
+            {% endif %}
+        {% endfor %}
+        <br><br>
+
+
+      </div>
+
+   </div>
+</div>
+
+<div class="container-fluid">
+   <div class="row blurb text-center">
+      <div class="col-md-12">
+         <h2>About {{ site.tiitle }}</h2>
+         <p class="collection__end_p">{{ site.description }}</p>
+         <div class="col-md-12 blurb_padding"><a href="{{ site.workspace }}" target="_blank"><img src="images/postman-workspaces.png" width="400"></a></div>
+      </div>
+   </div>
+</div>

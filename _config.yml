@@ -1,0 +1,23 @@
+title: All Workspaces
+tagline: Helping define the next generation of open data.
+description: This is working repository of Postman public workspaces from the Postman network, helping provide a single listing of all the workspaces currently published.
+workspace: https://www.postman.com/postman/workspace/postman-open-technologies-data
+image: images/postman-concepts.png
+url: https://postman-open-technologies.github.io/data
+email: kin.lane@postman.com
+
+paginate: 50
+paginate_path: "/blog/page:num"
+
+github_user: api-network
+github_repo: all-workspaces
+github_branch: master
+
+version:      1.1.1
+author:
+  name:       'Kin Lane'
+  email:      'kin.lane@postman.com'
+markdown:     kramdown
+
+permalink: /:categories/:year/:month/:day/:title/
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]

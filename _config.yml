@@ -3,7 +3,7 @@ tagline: Helping define the next generation of open data.
 description: This is working repository of Postman public workspaces from the Postman network, helping provide a single listing of all the workspaces currently published.
 workspace: https://www.postman.com/postman/workspace/postman-open-technologies-data
 image: images/postman-concepts.png
-url: https://postman-open-technologies.github.io/data
+url: https://www.postman.com/api-evangelist/workspace/workspaces/overview
 email: kin.lane@postman.com
 
 paginate: 50

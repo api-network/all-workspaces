@@ -6,9 +6,6 @@ image: images/postman-concepts.png
 url: https://www.postman.com/api-evangelist/workspace/workspaces/overview
 email: kin.lane@postman.com
 
-paginate: 50
-paginate_path: "/blog/page:num"
-
 github_user: api-network
 github_repo: all-workspaces
 github_branch: master

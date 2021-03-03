@@ -1,11 +1,11 @@
 ---
 layout: none
 ---
-{% for workspace in site.cream %}{
-   "title": "{{ workspace.name | strip_html | escape | strip }}",
-   "description": "{{ workspace.description | strip_html | escape | strip | strip_newlines }}",
-   "link": "{{ workspace.image }}",
-   "apis": {{ workspace.apis | strip_html | escape | strip }},
-   "collection": "{{ post.collection | strip_html | escape | strip }}",
-   "updated": "{{ page.updated | strip_html | escape | strip }}"
+[{% for workspace in site.data.cream %}{
+   "title": "{{ workspace.title }}",
+   "description": "{{ workspace.description }}",
+   "link": "{{ workspace.link }}",
+   "apis": {{ workspace.apis }},
+   "collections": {{ workspace.collections }},
+   "updated": "{{ workspace.updated }}"
 }{% if forloop.last == true %}{% else %},{% endif %}{% endfor %}]

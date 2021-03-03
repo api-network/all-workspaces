@@ -665,7 +665,7 @@
    "updated": " 25 Feb, 2021"
 },{
    "title": "Keshav",
-   "description": "Keshav's Public Workspace",
+   "description": "Keshav&#39;s Public Workspace",
    "link": "https://www.postman.com/cs-demo/workspace/keshav",
    "apis": 1,
    "collections": 4,
@@ -693,7 +693,7 @@
    "updated": " 22 Feb, 2021"
 },{
    "title": "Unified APIs",
-   "description": "Apideck's Unify Apis as runnable Postman Collections",
+   "description": "Apideck&#39;s Unify Apis as runnable Postman Collections",
    "link": "https://www.postman.com/apideck/workspace/unified-apis",
    "apis": 0,
    "collections": 2,
@@ -847,7 +847,7 @@
    "updated": " 18 Feb, 2021"
 },{
    "title": "Postman Galaxy Training - Joan",
-   "description": "Workspace for collections used on each of the sessions at Postman's Galaxy Training 2021",
+   "description": "Workspace for collections used on each of the sessions at Postman&#39;s Galaxy Training 2021",
    "link": "https://www.postman.com/joanperezl123/workspace/postman-galaxy-training-joan",
    "apis": 1,
    "collections": 7,
@@ -1015,7 +1015,7 @@
    "updated": " 16 Feb, 2021"
 },{
    "title": "Resource Watch",
-   "description": "This is a public workspace for working with Resource Watch's APIs.",
+   "description": "This is a public workspace for working with Resource Watch&#39;s APIs.",
    "link": "https://www.postman.com/api-evangelist/workspace/resource-watch",
    "apis": 1,
    "collections": 1,
@@ -1267,7 +1267,7 @@
    "updated": " 11 Feb, 2021"
 },{
    "title": "Dynamics 365 F&amp;O",
-   "description": "Workspace for D365 F&amp;O integrations",
+   "description": "Workspace for D365 F&amp;amp;O integrations",
    "link": "https://www.postman.com/mkleinpm/workspace/dynamics-365-f-o",
    "apis": 1,
    "collections": 1,
@@ -1288,7 +1288,7 @@
    "updated": " 11 Feb, 2021"
 },{
    "title": "API",
-   "description": "API for a movie's website.",
+   "description": "API for a movie&#39;s website.",
    "link": "https://www.postman.com/telecoms-geoscientist-13958496/workspace/api",
    "apis": 0,
    "collections": 2,
@@ -1379,7 +1379,7 @@
    "updated": " 21 Feb, 2021"
 },{
    "title": "Mercedes-Benz",
-   "description": "Welcome Developers! Explore the Mercedes-Benz /developers API's and SDK products",
+   "description": "Welcome Developers! Explore the Mercedes-Benz /developers API&#39;s and SDK products",
    "link": "https://www.postman.com/mbdevelopers/workspace/mercedes-benz",
    "apis": 15,
    "collections": 14,
@@ -1414,7 +1414,7 @@
    "updated": " 11 Feb, 2021"
 },{
    "title": "m;lm",
-   "description": "m;m'lm",
+   "description": "m;m&#39;lm",
    "link": "https://www.postman.com/payload-architect-65702529/workspace/m-lm",
    "apis": 0,
    "collections": 0,
@@ -1519,7 +1519,7 @@
    "updated": " 8 Feb, 2021"
 },{
    "title": "Swapi test",
-   "description": "Prova de Fetch amb l'API de Star Wars, Swapi.",
+   "description": "Prova de Fetch amb l&#39;API de Star Wars, Swapi.",
    "link": "https://www.postman.com/lunar-module-technologist-11349406/workspace/swapi-test",
    "apis": 0,
    "collections": 0,
@@ -1715,7 +1715,7 @@
    "updated": " 4 Feb, 2021"
 },{
    "title": "API Adoption_let's do it!",
-   "description": "API Adoption_let's do it!",
+   "description": "API Adoption_let&#39;s do it!",
    "link": "https://www.postman.com/spaceflight-saganist-19789735/workspace/api-adoption-let-s-do-it",
    "apis": 0,
    "collections": 1,
@@ -1799,7 +1799,7 @@
    "updated": " 4 Feb, 2021"
 },{
    "title": "OT2 Workflow Instance",
-   "description": "Validating the ot2 workflow instance &amp; APIs",
+   "description": "Validating the ot2 workflow instance &amp;amp; APIs",
    "link": "https://www.postman.com/red-water-89056/workspace/ot2-workflow-instance",
    "apis": 0,
    "collections": 1,
@@ -3213,9 +3213,7 @@
    "updated": " a day ago"
 },{
    "title": "Kentico Kontent APIs",
-   "description": "The
- Kentico Kontent APIs are designed so you can retrieve and manage 
-content from your Kontent projects and use that content in any app.",
+   "description": "The Kentico Kontent APIs are designed so you can retrieve and manage content from your Kontent projects and use that content in any app.",
    "link": "https://www.postman.com/kentico/workspace/kentico-kontent-apis",
    "apis": 0,
    "collections": 1,
@@ -3271,9 +3269,7 @@ content from your Kontent projects and use that content in any app.",
    "updated": " a month ago"
 },{
    "title": "velo-by-wix",
-   "description": "Velo
- by Wix is a Full Stack Web Development platform on top of Wix. Explore 
-APIs we've created for conferences and product resources.",
+   "description": "Velo by Wix is a Full Stack Web Development platform on top of Wix. Explore APIs we&#39;ve created for conferences and product resources.",
    "link": "https://www.postman.com/velo-by-wix/workspace/velo-by-wix",
    "apis": 0,
    "collections": 2,
@@ -3301,7 +3297,7 @@ APIs we've created for conferences and product resources.",
    "updated": " a month ago"
 },{
    "title": "Parthav09",
-   "description": "API's for parthavs projects",
+   "description": "API&#39;s for parthavs projects",
    "link": "https://www.postman.com/lunar-module-engineer-55985456/workspace/parthav09",
    "apis": 0,
    "collections": 1,
@@ -3364,9 +3360,7 @@ APIs we've created for conferences and product resources.",
    "updated": " a month ago"
 },{
    "title": "Health help",
-   "description": "Health
- help is a collection of useful apis in assisting patients and doctors 
-by diagnosing symptoms &amp; providing info on the nearest doctors",
+   "description": "Health help is a collection of useful apis in assisting patients and doctors by diagnosing symptoms &amp;amp; providing info on the nearest doctors",
    "link": "https://www.postman.com/advantagedigital/workspace/health-help",
    "apis": 0,
    "collections": 1,
@@ -3443,9 +3437,7 @@ by diagnosing symptoms &amp; providing info on the nearest doctors",
    "updated": " a month ago"
 },{
    "title": "AnyMock",
-   "description": "This
- workspace provides a collection of APIs that lets you generate all 
-kinds of data for mocking data during development or for testing",
+   "description": "This workspace provides a collection of APIs that lets you generate all kinds of data for mocking data during development or for testing",
    "link": "https://www.postman.com/red-star-7910-1/workspace/anymock",
    "apis": 0,
    "collections": 8,
@@ -3494,9 +3486,7 @@ kinds of data for mocking data during development or for testing",
    "updated": " a month ago"
 },{
    "title": "BI Tools Playground",
-   "description": "A
- workspace for BI developers to try and test  API capabilities of BI 
-tools in market, in silo as well as in combination workflow.",
+   "description": "A workspace for BI developers to try and test  API capabilities of BI tools in market, in silo as well as in combination workflow.",
    "link": "https://www.postman.com/bigainer/workspace/bi-tools-playground",
    "apis": 0,
    "collections": 4,
@@ -3517,9 +3507,7 @@ tools in market, in silo as well as in combination workflow.",
    "updated": " a month ago"
 },{
    "title": "PostedDB 1.0",
-   "description": "This
- collection makes use of PostedDB chrome extension as standalone 
-indexedDB database reachable from postman requests and scripts.",
+   "description": "This collection makes use of PostedDB chrome extension as standalone indexedDB database reachable from postman requests and scripts.",
    "link": "https://www.postman.com/jlabstudio/workspace/posteddb-1-0",
    "apis": 0,
    "collections": 1,
@@ -3575,9 +3563,7 @@ indexedDB database reachable from postman requests and scripts.",
    "updated": " a month ago"
 },{
    "title": " Seamless 2FA and Account Watchdog using typing biometrics",
-   "description": "Public
- workspace for seamless 2FA &amp; account watchdog, with TypingDNA &amp;
- SendGrid APIs. Try out the BB8 Hackathon Demo! postmanhackathon.co.uk",
+   "description": "Public workspace for seamless 2FA &amp;amp; account watchdog, with TypingDNA &amp;amp; SendGrid APIs. Try out the BB8 Hackathon Demo! postmanhackathon.co.uk",
    "link": "https://www.postman.com/bb8-team/workspace/seamless-2fa-and-account-watchdog-using-typing-biometrics",
    "apis": 0,
    "collections": 2,
@@ -3605,7 +3591,7 @@ indexedDB database reachable from postman requests and scripts.",
    "updated": " a month ago"
 },{
    "title": "Sup-porter-bot",
-   "description": "Supporter's-Bot  |  Sup(er)-Porter-Bot = An assistive agent",
+   "description": "Supporter&#39;s-Bot  |  Sup(er)-Porter-Bot = An assistive agent",
    "link": "https://www.postman.com/crimson-resonance-1712/workspace/sup-porter-bot",
    "apis": 0,
    "collections": 6,
@@ -3619,7 +3605,7 @@ indexedDB database reachable from postman requests and scripts.",
    "updated": " a month ago"
 },{
    "title": "Team Tilicho Workspace",
-   "description": "Team Tilicho's Workspace",
+   "description": "Team Tilicho&#39;s Workspace",
    "link": "https://www.postman.com/tilicho/workspace/team-tilicho-workspace",
    "apis": 0,
    "collections": 4,
@@ -3640,7 +3626,7 @@ indexedDB database reachable from postman requests and scripts.",
    "updated": " a month ago"
 },{
    "title": "Open Access Museums",
-   "description": "A workspace for managing and collaborating on museum's open APIs",
+   "description": "A workspace for managing and collaborating on museum&#39;s open APIs",
    "link": "https://www.postman.com/opamcurators/workspace/open-access-museums",
    "apis": 6,
    "collections": 7,
@@ -3682,9 +3668,7 @@ indexedDB database reachable from postman requests and scripts.",
    "updated": " a month ago"
 },{
    "title": "No-Code Social Media Aggregator",
-   "description": "This
- workspace contains APIs to help aggregate social media content across 
-platforms, analyze it and present a mock API based shareable link",
+   "description": "This workspace contains APIs to help aggregate social media content across platforms, analyze it and present a mock API based shareable link",
    "link": "https://www.postman.com/pstmnhack-saumopal/workspace/no-code-social-media-aggregator",
    "apis": 0,
    "collections": 11,
@@ -3719,7 +3703,7 @@ platforms, analyze it and present a mock API based shareable link",
    "updated": " a month ago"
 },{
    "title": "Games &amp; Sports ",
-   "description": "Public workspace for Sports &amp; Video Games related API's",
+   "description": "Public workspace for Sports &amp;amp; Video Games related API&#39;s",
    "link": "https://www.postman.com/xeno-team/workspace/games-sports",
    "apis": 14,
    "collections": 18,
@@ -3789,18 +3773,14 @@ platforms, analyze it and present a mock API based shareable link",
    "updated": " a month ago"
 },{
    "title": "Stage for you!",
-   "description": "Developers'
- platform to get suggestion to work on and also suggestions of 
-variables, loops etc. Also merchandise for every topic for Devs!",
+   "description": "Developers&#39; platform to get suggestion to work on and also suggestions of variables, loops etc. Also merchandise for every topic for Devs!",
    "link": "https://www.postman.com/gold-sunset-96658/workspace/stage-for-you",
    "apis": 1,
    "collections": 1,
    "updated": " a month ago"
 },{
    "title": "Cloud Newman me",
-   "description": "Turn
- your Postman collection into an API! Supports private data. Simple to 
-use - just output your response in your script using console.log.",
+   "description": "Turn your Postman collection into an API! Supports private data. Simple to use - just output your response in your script using console.log.",
    "link": "https://www.postman.com/coolcats123/workspace/cloud-newman-me",
    "apis": 1,
    "collections": 3,
@@ -3835,9 +3815,7 @@ use - just output your response in your script using console.log.",
    "updated": " 10 Feb, 2021"
 },{
    "title": "LaTexClusterWorkspace",
-   "description": "LaTeXCluster
- provides an API for developers, enabling them to quickly and easily 
-implement applications with complex LaTeX functionality.",
+   "description": "LaTeXCluster provides an API for developers, enabling them to quickly and easily implement applications with complex LaTeX functionality.",
    "link": "https://www.postman.com/MSchnierle/workspace/latexclusterworkspace",
    "apis": 1,
    "collections": 1,
@@ -3858,17 +3836,14 @@ implement applications with complex LaTeX functionality.",
    "updated": " a month ago"
 },{
    "title": "team-helper",
-   "description": "Build
- an app to help your teammate in project management, devops, design, or 
-your fellow developers with the help of this collection.",
+   "description": "Build an app to help your teammate in project management, devops, design, or your fellow developers with the help of this collection.",
    "link": "https://www.postman.com/pepperaddict/workspace/team-helper",
    "apis": 0,
    "collections": 3,
    "updated": " a month ago"
 },{
    "title": "Developer Refresh",
-   "description": "when ever the developer tired of  coding but want to explore  to new 
-things  this will workspace will      be solution for this",
+   "description": "when ever the developer tired of  coding but want to explore  to new things  this will workspace will      be solution for this",
    "link": "https://www.postman.com/youngminds/workspace/developer-refresh",
    "apis": 0,
    "collections": 4,
@@ -3903,9 +3878,7 @@ things  this will workspace will      be solution for this",
    "updated": " a month ago"
 },{
    "title": "Team-Helper",
-   "description": "Build
- an app to help your teammate in project management, devops, design, or 
-your fellow developers with the help of this collection.",
+   "description": "Build an app to help your teammate in project management, devops, design, or your fellow developers with the help of this collection.",
    "link": "https://www.postman.com/socialpirates/workspace/team-helper",
    "apis": 0,
    "collections": 3,
@@ -3968,9 +3941,7 @@ your fellow developers with the help of this collection.",
    "updated": " a month ago"
 },{
    "title": "Quick Debug",
-   "description": "A
- workspace to automatically notify developers when API tests fail and 
-suggest solutions based on the error response returned by the server.",
+   "description": "A workspace to automatically notify developers when API tests fail and suggest solutions based on the error response returned by the server.",
    "link": "https://www.postman.com/speeding-desert-304295/workspace/quick-debug",
    "apis": 0,
    "collections": 2,
@@ -3984,9 +3955,7 @@ suggest solutions based on the error response returned by the server.",
    "updated": " a month ago"
 },{
    "title": "Postman Hack 2021 - Team SpaceCubes",
-   "description": "An
- API, that lets you set reminders,dependencies trackers, gets NPM 
-Package info and sends out awesome Newsletters every morning!",
+   "description": "An API, that lets you set reminders,dependencies trackers, gets NPM Package info and sends out awesome Newsletters every morning!",
    "link": "https://www.postman.com/spacecubes/workspace/postman-hack-2021-team-spacecubes",
    "apis": 0,
    "collections": 1,
@@ -4028,9 +3997,7 @@ Package info and sends out awesome Newsletters every morning!",
    "updated": " a month ago"
 },{
    "title": "The Caring Devs",
-   "description": "Discover
- self-care APIs that will help you to create your own Slack Bot that 
-acts as a friendly reminder to take care of yourself better.",
+   "description": "Discover self-care APIs that will help you to create your own Slack Bot that acts as a friendly reminder to take care of yourself better.",
    "link": "https://www.postman.com/thedevlabs/workspace/the-caring-devs",
    "apis": 0,
    "collections": 2,
@@ -4366,7 +4333,7 @@ acts as a friendly reminder to take care of yourself better.",
    "updated": " a month ago"
 },{
    "title": "Megatalking",
-   "description": "Documentation for Megatalking's Backend API",
+   "description": "Documentation for Megatalking&#39;s Backend API",
    "link": "https://www.postman.com/lively-space-684599/workspace/megatalking",
    "apis": 0,
    "collections": 3,
@@ -4422,16 +4389,14 @@ acts as a friendly reminder to take care of yourself better.",
    "updated": " a month ago"
 },{
    "title": "Foodie's Corner",
-   "description": "Foodie's Corner consists of two colllections, which provides with the recipe, nutrition analysis based on the search query.",
+   "description": "Foodie&#39;s Corner consists of two colllections, which provides with the recipe, nutrition analysis based on the search query.",
    "link": "https://www.postman.com/hackerdojo/workspace/foodie-s-corner",
    "apis": 0,
    "collections": 2,
    "updated": " a month ago"
 },{
    "title": "Cloud Developers",
-   "description": "Take
- your APIs into a serverless world seamlessly with automated code stub 
-generation and auto-deployment, w/o leaving your Postman client!",
+   "description": "Take your APIs into a serverless world seamlessly with automated code stub generation and auto-deployment, w/o leaving your Postman client!",
    "link": "https://www.postman.com/nimbella-corp/workspace/cloud-developers",
    "apis": 1,
    "collections": 1,
@@ -4459,7 +4424,7 @@ generation and auto-deployment, w/o leaving your Postman client!",
    "updated": " a month ago"
 },{
    "title": "Developer Productivity",
-   "description": "This is a public workspace for APIs that aim to help with Developer Productivity &amp; morale.",
+   "description": "This is a public workspace for APIs that aim to help with Developer Productivity &amp;amp; morale.",
    "link": "https://www.postman.com/galactic-desert-643697/workspace/developer-productivity",
    "apis": 0,
    "collections": 5,
@@ -4473,9 +4438,7 @@ generation and auto-deployment, w/o leaving your Postman client!",
    "updated": " a month ago"
 },{
    "title": "CoinStop",
-   "description": "The
- goal of this workspace is to visualize businesses [Yelp results] along a
- subway route (e.g. show businesses at station stops).",
+   "description": "The goal of this workspace is to visualize businesses [Yelp results] along a subway route (e.g. show businesses at station stops).",
    "link": "https://www.postman.com/coolcats123/workspace/coinstop",
    "apis": 1,
    "collections": 5,
@@ -4503,9 +4466,7 @@ generation and auto-deployment, w/o leaving your Postman client!",
    "updated": " a month ago"
 },{
    "title": "Peggy J.",
-   "description": "Peggy
- J. takes an image URL and resizes it to whatever width you choose. It's
- fast and easy. Open source and backed by AWS S3 and MongoDB.",
+   "description": "Peggy J. takes an image URL and resizes it to whatever width you choose. It&#39;s fast and easy. Open source and backed by AWS S3 and MongoDB.",
    "link": "https://www.postman.com/PreslandBoy/workspace/peggy-j",
    "apis": 0,
    "collections": 1,
@@ -4540,7 +4501,7 @@ generation and auto-deployment, w/o leaving your Postman client!",
    "updated": " a month ago"
 },{
    "title": "Meme Generator",
-   "description": "This workspace contains collection of API's used to generate memes",
+   "description": "This workspace contains collection of API&#39;s used to generate memes",
    "link": "https://www.postman.com/nithintata/workspace/meme-generator",
    "apis": 0,
    "collections": 1,
@@ -4596,7 +4557,7 @@ generation and auto-deployment, w/o leaving your Postman client!",
    "updated": " a month ago"
 },{
    "title": "Chattanooga",
-   "description": "Explore Chattanooga's APIs in this workspace. ohh hai!",
+   "description": "Explore Chattanooga&#39;s APIs in this workspace. ohh hai!",
    "link": "https://www.postman.com/meowsergirl/workspace/chattanooga",
    "apis": 1,
    "collections": 1,
@@ -4687,7 +4648,7 @@ generation and auto-deployment, w/o leaving your Postman client!",
    "updated": " 6 Feb, 2021"
 },{
    "title": "GIant Bomb",
-   "description": "Giant Bomb is the world's largest video game API.",
+   "description": "Giant Bomb is the world&#39;s largest video game API.",
    "link": "https://www.postman.com/seanryankeegancat/workspace/giant-bomb",
    "apis": 0,
    "collections": 1,
@@ -4708,9 +4669,7 @@ generation and auto-deployment, w/o leaving your Postman client!",
    "updated": " 11 Jan, 2021"
 },{
    "title": "The COVID Collection",
-   "description": "The
- COVID Collection aims to provide a source of public API's to facilitate
- new software development projects based on COVID-19 data.",
+   "description": "The COVID Collection aims to provide a source of public API&#39;s to facilitate new software development projects based on COVID-19 data.",
    "link": "https://www.postman.com/JMBIV1/workspace/the-covid-collection",
    "apis": 0,
    "collections": 3,
@@ -4738,9 +4697,7 @@ generation and auto-deployment, w/o leaving your Postman client!",
    "updated": " 11 Jan, 2021"
 },{
    "title": "IDHub",
-   "description": "Helping
- developers adopting modern identity practices like SSO and easily 
-integrate with third parties APIs using JWTs via Postman.",
+   "description": "Helping developers adopting modern identity practices like SSO and easily integrate with third parties APIs using JWTs via Postman.",
    "link": "https://www.postman.com/id-hub/workspace/idhub",
    "apis": 1,
    "collections": 4,
@@ -4845,7 +4802,7 @@ integrate with third parties APIs using JWTs via Postman.",
    "updated": " 15 Feb, 2021"
 },{
    "title": "Sean's Public Workspace",
-   "description": "This is my test workspace! It's public!",
+   "description": "This is my test workspace! It&#39;s public!",
    "link": "https://www.postman.com/seanryankeegancat/workspace/sean-s-public-workspace",
    "apis": 0,
    "collections": 1,
@@ -4859,7 +4816,7 @@ integrate with third parties APIs using JWTs via Postman.",
    "updated": " 3 Feb, 2021"
 },{
    "title": "NPM Explorer",
-   "description": "Explore &amp; Browse NPM Packages",
+   "description": "Explore &amp;amp; Browse NPM Packages",
    "link": "https://www.postman.com/carmocodile/workspace/npm-explorer",
    "apis": 0,
    "collections": 2,
@@ -4880,7 +4837,7 @@ integrate with third parties APIs using JWTs via Postman.",
    "updated": " 8 Jan, 2021"
 },{
    "title": "Board Game Atlas",
-   "description": "Query Board Game Atlas to help suggest a boardgame and then find it's best price.",
+   "description": "Query Board Game Atlas to help suggest a boardgame and then find it&#39;s best price.",
    "link": "https://www.postman.com/pansoftware-qa/workspace/board-game-atlas",
    "apis": 0,
    "collections": 1,
@@ -6707,7 +6664,7 @@ integrate with third parties APIs using JWTs via Postman.",
    "updated": " 30 Dec, 2020"
 },{
    "title": "Telecontrol API'S (Marketplace)",
-   "description": "Api's da telecontrol",
+   "description": "Api&#39;s da telecontrol",
    "link": "https://www.postman.com/nandomarzola/workspace/telecontrol-api-s-marketplace",
    "apis": 1,
    "collections": 1,
@@ -6770,7 +6727,7 @@ integrate with third parties APIs using JWTs via Postman.",
    "updated": " 27 Dec, 2020"
 },{
    "title": "Dun &amp; Bradstreet",
-   "description": "This is a public workspace for the Dun &amp; Bradstreet APIs.",
+   "description": "This is a public workspace for the Dun &amp;amp; Bradstreet APIs.",
    "link": "https://www.postman.com/api-evangelist/workspace/dun-bradstreet",
    "apis": 1,
    "collections": 1,
@@ -7050,9 +7007,7 @@ integrate with third parties APIs using JWTs via Postman.",
    "updated": " 4 hrs ago"
 },{
    "title": "Celitech's Public Workspace",
-   "description": "Celitech
- eSIM API enables businesses and apps to offer cellular data eSIM. We 
-share here collections illustrating the API features.",
+   "description": "Celitech eSIM API enables businesses and apps to offer cellular data eSIM. We share here collections illustrating the API features.",
    "link": "https://www.postman.com/celitech/workspace/celitech-s-public-workspace",
    "apis": 0,
    "collections": 1,
@@ -7066,9 +7021,7 @@ share here collections illustrating the API features.",
    "updated": " 3 Feb, 2021"
 },{
    "title": "PingOne",
-   "description": "Ping
- Identity's IDaaS (Identity as a Service) cloud solution for easily 
-integrating login, registration, MFA, authentication, authorizati...",
+   "description": "Ping Identity&#39;s IDaaS (Identity as a Service) cloud solution for easily integrating login, registration, MFA, authentication, authorizati...",
    "link": "https://www.postman.com/ping-identity/workspace/pingone",
    "apis": 1,
    "collections": 2,
@@ -7376,7 +7329,7 @@ integrating login, registration, MFA, authentication, authorizati...",
    "updated": " 26 Feb, 2021"
 },{
    "title": "XeroAPI",
-   "description": "Get up and running with Xero's API",
+   "description": "Get up and running with Xero&#39;s API",
    "link": "https://www.postman.com/xeroapi/workspace/xeroapi",
    "apis": 1,
    "collections": 2,
@@ -7572,9 +7525,7 @@ integrating login, registration, MFA, authentication, authorizati...",
    "updated": " 5 Dec, 2020"
 },{
    "title": "Kong",
-   "description": "This
- is a workspace for managing OpenAPIs and Postman collections for the 
-Kong API, using APIs for our infrastructure to manage our APIs.",
+   "description": "This is a workspace for managing OpenAPIs and Postman collections for the Kong API, using APIs for our infrastructure to manage our APIs.",
    "link": "https://www.postman.com/api-evangelist/workspace/kong",
    "apis": 1,
    "collections": 1,
@@ -7602,9 +7553,7 @@ Kong API, using APIs for our infrastructure to manage our APIs.",
    "updated": " 8 Dec, 2020"
 },{
    "title": "Dwight Shrute",
-   "description": "Hello!
- I'm Dunder Mifflin’s best-performing paper salesman. A beet farmer in a
- corporate park and a survivalist selling office products.",
+   "description": "Hello! I&#39;m Dunder Mifflin’s best-performing paper salesman. A beet farmer in a corporate park and a survivalist selling office products.",
    "link": "https://www.postman.com/kurmavathar/workspace/dwight-shrute",
    "apis": 1,
    "collections": 1,
@@ -7744,9 +7693,7 @@ Kong API, using APIs for our infrastructure to manage our APIs.",
    "updated": " 12 Jan, 2021"
 },{
    "title": "Fast Healthcare Interoperability Resources (FHIR)",
-   "description": "This
- is a workspace for developing and integrating witih the Fast Healthcare
- Interoperability Resources (FHIR) API specification.",
+   "description": "This is a workspace for developing and integrating witih the Fast Healthcare Interoperability Resources (FHIR) API specification.",
    "link": "https://www.postman.com/api-evangelist/workspace/fast-healthcare-interoperability-resources-fhir",
    "apis": 1,
    "collections": 1,
@@ -7781,7 +7728,7 @@ Kong API, using APIs for our infrastructure to manage our APIs.",
    "updated": " a month ago"
 },{
    "title": "Dropbox Public Workspace",
-   "description": "In this workspace, you'll be able to help Dropbox build collections for our APIs",
+   "description": "In this workspace, you&#39;ll be able to help Dropbox build collections for our APIs",
    "link": "https://www.postman.com/dropbox-api/workspace/dropbox-public-workspace",
    "apis": 0,
    "collections": 1,
@@ -7816,7 +7763,7 @@ Kong API, using APIs for our infrastructure to manage our APIs.",
    "updated": " 7 hrs ago"
 },{
    "title": "CC Exploring the public workspace",
-   "description": "A repo of collections I've used to easily play around with relevant APIs out in the universe.",
+   "description": "A repo of collections I&#39;ve used to easily play around with relevant APIs out in the universe.",
    "link": "https://www.postman.com/cs-demo/workspace/cc-exploring-the-public-workspace",
    "apis": 0,
    "collections": 2,

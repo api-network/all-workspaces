@@ -3,7 +3,7 @@ layout: none
 ---
 [{% for workspace in site.data.cream %}{
    "title": "{{ workspace.title }}",
-   "description": "{{ workspace.description }}",
+   "description": "{{ workspace.description | strip_html | escape | strip | strip_newlines }}",
    "link": "{{ workspace.link }}",
    "apis": {{ workspace.apis }},
    "collections": {{ workspace.collections }},
